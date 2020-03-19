@@ -1,10 +1,10 @@
 # ReviewProject
 
-[Physics](0001_Physics)
+[Physics](https://mizimonyan.github.io/ReviewProject/0001_Physics)
 
-[Chemistry](0002_Chemistry)
+[Chemistry](https://mizimonyan.github.io/ReviewProject/0002_Chemistry)
 
-[Biology](0003_Biology)
+[Biology](https://mizimonyan.github.io/ReviewProject/0003_Biology)
 
 =======
 this is a markdown file
