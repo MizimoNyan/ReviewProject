@@ -1,4 +1,4 @@
-<<<<<<< Physics
+<<<<<<< HEAD
 # ReviewProject
 
 [Physics](0001_Physics)
@@ -8,4 +8,4 @@
 [Biology](0003 Biology)
 =======
 this is a markdown file
->>>>>>> HEAD
+>>>>>>> Physics
